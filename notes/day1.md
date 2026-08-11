@@ -21,6 +21,4 @@ What is Probability of Default (PD)?
 > Probability of Default is the estimated probability that a borrower will default. Ranges from 0 to 1.
 > A lender uses PD to make decisions such as, approving/ rejecting borrowers, setting credit limits, determine pricing/ intrest rates, and estimate loses
 
->For each concept, understand what it means and why a lender cares about it.
-
 
